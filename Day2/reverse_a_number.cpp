@@ -14,6 +14,5 @@ int main(){
 
     }
     cout<< "After reversing : "<<result;
-
-
+    return 0;
 }
