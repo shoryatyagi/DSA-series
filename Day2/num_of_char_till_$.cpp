@@ -8,6 +8,7 @@ int main(){
     int ch_count = 0;
     while(ch!='$'){
         ch_count++;
+        cin>>ch;
     }
     cout << ch_count;
     return 0;
