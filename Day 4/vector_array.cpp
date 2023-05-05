@@ -5,8 +5,14 @@ using namespace std;
 
 int main(){
     vector<int> v;
+    vector<int> a(5,1); // Initialize all the elements with one
+    vector <int> last(a);
+    for (int i : last) cout << i << " ";
+    cout << endl;
+    for (int i : a) cout << i << " ";
+    cout << endl;
     cout << "Size : "<<v.capacity()<<endl;
-
+    cout << endl;
     v.push_back(1);
     cout << "Size : "<< v.capacity()<<endl;
 
