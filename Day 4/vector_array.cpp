@@ -19,4 +19,12 @@ int main(){
     cout << "Element at 2nd index : "<< v.at(1)<<endl;
     cout<< "First Element : "<<v.front()<<endl;
     cout << "Last Element : "<<v.back()<<endl;
+    
+    for(int i:v){
+        cout << i << " ";
+    }
+    v.pop_back();
+    cout << endl;
+    for (int i:v) cout << i<<" ";
+
 }
