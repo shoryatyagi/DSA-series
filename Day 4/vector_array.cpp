@@ -27,4 +27,9 @@ int main(){
     cout << endl;
     for (int i:v) cout << i<<" ";
 
+    cout << "size before clear : "<<v.size()<<endl;
+
+    v.clear();
+    cout << "size after clear : "<<v.size()<<endl;
+
 }
