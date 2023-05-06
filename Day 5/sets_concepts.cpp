@@ -25,6 +25,6 @@ int main(){
     cout<< endl;
 
     cout << "5 present or not : "<< s.count(5)<<endl;
-    set<int>::iterator itr = s.find(5);
+    set<int>::iterator itr = s.find(5); 
     cout<< " value present at itr : " << *itr<<endl;
 }
