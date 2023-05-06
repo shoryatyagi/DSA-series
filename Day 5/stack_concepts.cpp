@@ -5,8 +5,8 @@ using namespace std;
 int main(){
     stack <string> s;
     s.push("Shorya");
-    s.push("Aayush");
-    s.push("Dev");
+    s.push("Tyagi");
+    s.push("Tony");
 
 
     cout<< "Top Element : "<<s.top()<<endl;
