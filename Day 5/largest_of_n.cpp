@@ -1,19 +1,24 @@
 #include<iostream>
 #include<climits>
 using namespace std;
+
 int main(){
-	int n;
-	cin>>n;
-	int i = 1;
-	int largest = INT_MIN;
-	int input;
-	while( i <= n ){
+    int n;
+    cout<<"How many numbers you want to take : ";
+    cin>>n;
+
+    int large_num = INT_MIN;
+    
+    int input;
+    int i =0;
+   while( i < n ){
 		cin >> input;
-		if(largest < input){
-			largest = input;
+		if(large_num < input){
+			large_num = input;
 		}
 		i = i + 1;
 	}
-	cout<<largest<<endl;
-	return 0;
+    cout<< "Largest Number : " << large_num;
+    return 0;
 }
+
