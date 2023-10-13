@@ -30,4 +30,6 @@ The following topics are covered in my repository :
 
 :white_check_mark: Day 12 - [BinaryToDecimal / DecimalToBinary](https://github.com/shoryatyagi/DSA-series/tree/master/Day%2012)
 
+:white_check_mark: Day 13 - [Leet Code Problems](https://github.com/shoryatyagi/DSA-series/tree/master/Day%2013)
+
 
