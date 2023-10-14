@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-bool isPrime(int x)
+bool isPrime(int x = 3)
 {
     if (x < 2)
         return 0;
@@ -13,7 +13,7 @@ bool isPrime(int x)
     return 1;
 }
 
-int fact(int x)
+int fact(int x = 3)
 {
     if (x == 0)
         return 1;
@@ -32,5 +32,8 @@ int main()
 
     (isPrime(n)) ? cout << "Prime Number\n" : cout << "Not Prime Number\n";
     cout << fact(n) << endl;
+    cout << "When no argument is passed" << endl;
+    cout << fact() << endl;
+    cout << isPrime() << endl;
     return 0;
 }
