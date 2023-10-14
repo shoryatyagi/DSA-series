@@ -32,4 +32,6 @@ The following topics are covered in my repository :
 
 :white_check_mark: Day 13 - [Leet Code Problems](https://github.com/shoryatyagi/DSA-series/tree/master/Day%2013)
 
+:white_check_mark: Day 14 - [Functions (Pass by Value and Pass by Reference)](https://github.com/shoryatyagi/DSA-series/tree/master/Day%2014)
+
 
