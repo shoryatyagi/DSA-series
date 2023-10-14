@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// All are pass-by-value functions
 bool isPrime(int x = 3)
 {
     if (x < 2)
