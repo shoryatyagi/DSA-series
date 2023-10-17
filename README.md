@@ -40,3 +40,5 @@ The following topics are covered in my repository :
 
 :white_check_mark: Day 17 - [Advanced Array Problems](https://github.com/shoryatyagi/DSA-series/tree/master/Day%2017)
 
+:white_check_mark: Day 18 - [Time and Space Complexity[https://www.youtube.com/watch?v=hUdqNPhXOh4&list=PLQEaRBV9gAFu4ovJ41PywklqI7IyXwr01&index=18&t=1s&ab_channel=CoderArmy)https://www.youtube.com/watch?v=hUdqNPhXOh4&list=PLQEaRBV9gAFu4ovJ41PywklqI7IyXwr01&index=18&t=1s&ab_channel=CoderArmy]
+
