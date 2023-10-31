@@ -42,5 +42,9 @@ The following topics are covered in my repository :
 
 :white_check_mark: Day 18 - [Time and Space Complexity](https://www.youtube.com/watch?v=hUdqNPhXOh4&list=PLQEaRBV9gAFu4ovJ41PywklqI7IyXwr01&index=18&t=1s&ab_channel=CoderArmy)
 
-:white_check_mark: Day 19 - [Selection Sort](https://github.com/shoryatyagi/DSA-series/tree/master/Day%2018)
+:white_check_mark: Day 19 - [Selection Sort](https://github.com/shoryatyagi/DSA-series/tree/master/Day%2019)
+
+:white_check_mark: Day 20 - [Bubble Sort](https://github.com/shoryatyagi/DSA-series/tree/master/Day%2020)
+
+:white_check_mark: Day 21 - [Insertion Sort](https://github.com/shoryatyagi/DSA-series/tree/master/Day%2021)
 
